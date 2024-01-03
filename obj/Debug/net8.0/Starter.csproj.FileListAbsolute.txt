@@ -1,0 +1,14 @@
+/Users/dennie/Desktop/Microsoft/Guided-project-branching-looping-CSharp-main/GuidedProject/Starter/bin/Debug/net8.0/Starter
+/Users/dennie/Desktop/Microsoft/Guided-project-branching-looping-CSharp-main/GuidedProject/Starter/bin/Debug/net8.0/Starter.deps.json
+/Users/dennie/Desktop/Microsoft/Guided-project-branching-looping-CSharp-main/GuidedProject/Starter/bin/Debug/net8.0/Starter.runtimeconfig.json
+/Users/dennie/Desktop/Microsoft/Guided-project-branching-looping-CSharp-main/GuidedProject/Starter/bin/Debug/net8.0/Starter.dll
+/Users/dennie/Desktop/Microsoft/Guided-project-branching-looping-CSharp-main/GuidedProject/Starter/bin/Debug/net8.0/Starter.pdb
+/Users/dennie/Desktop/Microsoft/Guided-project-branching-looping-CSharp-main/GuidedProject/Starter/obj/Debug/net8.0/Starter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dennie/Desktop/Microsoft/Guided-project-branching-looping-CSharp-main/GuidedProject/Starter/obj/Debug/net8.0/Starter.AssemblyInfoInputs.cache
+/Users/dennie/Desktop/Microsoft/Guided-project-branching-looping-CSharp-main/GuidedProject/Starter/obj/Debug/net8.0/Starter.AssemblyInfo.cs
+/Users/dennie/Desktop/Microsoft/Guided-project-branching-looping-CSharp-main/GuidedProject/Starter/obj/Debug/net8.0/Starter.csproj.CoreCompileInputs.cache
+/Users/dennie/Desktop/Microsoft/Guided-project-branching-looping-CSharp-main/GuidedProject/Starter/obj/Debug/net8.0/Starter.dll
+/Users/dennie/Desktop/Microsoft/Guided-project-branching-looping-CSharp-main/GuidedProject/Starter/obj/Debug/net8.0/refint/Starter.dll
+/Users/dennie/Desktop/Microsoft/Guided-project-branching-looping-CSharp-main/GuidedProject/Starter/obj/Debug/net8.0/Starter.pdb
+/Users/dennie/Desktop/Microsoft/Guided-project-branching-looping-CSharp-main/GuidedProject/Starter/obj/Debug/net8.0/Starter.genruntimeconfig.cache
+/Users/dennie/Desktop/Microsoft/Guided-project-branching-looping-CSharp-main/GuidedProject/Starter/obj/Debug/net8.0/ref/Starter.dll
